@@ -24,7 +24,10 @@ public class Main {
         warszawa.link(krakow,300);
         bialystok.link(krakow,400);
 
-        
+        System.out.println("Something add...");
+
+
+
 
 
 
